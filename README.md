@@ -1,2 +1,2 @@
 # Fruit-Learning-App
-An simple app to help people with different background to learn fruit names.
+A simple app to help people with different language background to learn fruit names.
